@@ -1,11 +1,7 @@
 ### Oi, bem-vindo ao meu GitHub!
-<div>
-  <a href="https://github.com/thiagocesar1">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagocesar1&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocesar1&layout=compact&langs_count=6&theme=nightowl"/>
-</div>
 <div style="display: inline_block"><br />
   <img align="center" alt="Spring" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Quarkus" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
   <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
