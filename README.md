@@ -1,4 +1,3 @@
-### Oi, bem-vindo ao meu GitHub!
 <div style="display: inline_block"><br />
   <img align="center" alt="Spring" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Quarkus" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
